@@ -6,6 +6,7 @@
   <a href="https://chineey.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="https://linkedin.com/in/chinemeze-njoku-7401051a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/chineey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:chinemezenjoku@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## About me
@@ -47,4 +48,4 @@
 
 ## Get in touch
 
-Open to opportunities. Reach me through my [portfolio](https://chineey.github.io) or [LinkedIn](https://linkedin.com/in/chinemeze-njoku-7401051a8).
+Open to opportunities. Reach me at [chinemezenjoku@gmail.com](mailto:chinemezenjoku@gmail.com), through my [portfolio](https://chineey.github.io) or on [LinkedIn](https://linkedin.com/in/chinemeze-njoku-7401051a8).
